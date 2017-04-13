@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="image_ids">
+        <item>@drawable/logo_oneplusone</item>
+        <item>@drawable/logo_tet</item>
+        <item>@drawable/logo_nlotv</item>
+        <item>@drawable/novyi</item>
+        <item>@drawable/logo_twoplustwo</item>
+        <item>@drawable/logo_k1</item>
+    </string-array>
+    <string-array name="languages_array">
+        <item>Українська</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="languages_values">
+        <item>uk</item>
+        <item>en</item>
+    </string-array>
+    <string-array name="menu_icons">
+        <item>@drawable/ic_channel_icon</item>
+        <item>@drawable/ic_favorite_icon</item>
+        <item>@drawable/ic_show_icon</item>
+        <item>@drawable/ic_setting_icon</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Телеканали</item>
+        <item>Улюблені телеканали</item>
+        <item>Вибрані телепередачі</item>
+        <item>Налаштування</item>
+    </string-array>
+    <string-array name="months">
+        <item>Січня</item>
+        <item>Лютого</item>
+        <item>Березня</item>
+        <item>Квітня</item>
+        <item>Травня</item>
+        <item>Червня</item>
+        <item>Липня</item>
+        <item>Серпня</item>
+        <item>Вересня</item>
+        <item>Жовтня</item>
+        <item>Листопада</item>
+        <item>Грудня</item>
+    </string-array>
+    <string-array name="theme">
+        <item>Темно сіра</item>
+        <item>Червона з Кларет</item>
+        <item>Зелена з сірою</item>
+    </string-array>
+    <string-array name="timer">
+        <item>30 хвилин</item>
+        <item>1 година</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на головний"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вгору"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Інші опції"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Переглянути всі"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Вибрати програму"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ВИМК."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"УВІМК."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Пошук…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Очистити запит"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Пошуковий запит"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Пошук"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Надіслати запит"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовий пошук"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Надіслати через"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Надіслати через %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Згорнути"</string>
+    <string name="add">Додати</string>
+    <string name="app_name">TV schedule</string>
+    <string name="cancel_button">Відмінити</string>
+    <string name="channels">Телеканали</string>
+    <string name="choose_language">виберіть вашу мову</string>
+    <string name="choose_theme">виберіть улюблену тему</string>
+    <string name="clear_list">Очистити список</string>
+    <string name="close">Close</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Увімкнути"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме, якщо не ввімкнути сервіси Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Увімкнути сервіси Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Установити"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме без сервісів Google Play, яких немає на вашому пристрої."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установити сервіси Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Помилка сервісів Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"У додатку <ns1:g id="APP_NAME">%1$s</ns1:g> виникла проблема із сервісами Google Play. Повторіть спробу."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме без сервісів Google Play, які не підтримуються на вашому пристрої."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Оновити"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме, якщо не оновити сервіси Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Оновіть сервіси Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме без сервісів Google Play, які зараз оновлюються."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Потрібна нова версія сервісів Google Play. Вони невдовзі оновляться."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Відкрити на телефоні"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Увійти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Увійти в облік. запис Google"</string>
+    <string name="confirm_remove">Так, видалити!</string>
+    <string name="email_address">E-mail адрес</string>
+    <string name="enjoy">Приємного перегляду!</string>
+    <string name="favorite_channels">Улюблені телеканали</string>
+    <string name="feedback">Зворотній звязок</string>
+    <string name="feedback_key">feedback</string>
+    <string name="first_name">Імя</string>
+    <string name="friday">Пятниця</string>
+    <string name="help">Справка</string>
+    <string name="languages">Мова</string>
+    <string name="languages_key">languages</string>
+    <string name="last_name">Прізвище</string>
+    <string name="log_in">Вхід</string>
+    <string name="log_out">Вихід</string>
+    <string name="login">Логін</string>
+    <string name="logo_ictv">Лого ICTV</string>
+    <string name="logo_nloTV">Лого НЛО ТВ</string>
+    <string name="logo_novyTv">Лого Новий канал</string>
+    <string name="logo_onePlusOne">Лого 1+1</string>
+    <string name="logo_tet">Лого ТЕТ</string>
+    <string name="logo_twoPlusTwo">Лого 2+2</string>
+    <string name="monday">Понеділок</string>
+    <string name="no_connection">Немає підключення до мережі</string>
+    <string name="not_available">На жаль опис не доступний</string>
+    <string name="open">Open</string>
+    <string name="password">Пароль</string>
+    <string name="password_confirm">Повторення паролю</string>
+    <string name="remind">Нагадати за:</string>
+    <string name="remove">Видалити</string>
+    <string name="remove_saved">Видалити?</string>
+    <string name="saturday">Субота</string>
+    <string name="save_button">Додати</string>
+    <string name="schedule">Телепрограмма</string>
+    <string name="selectedShow">Збережені телепередачі</string>
+    <string name="selected_shows">Збережені телепередачі</string>
+    <string name="setting">Налаштування</string>
+    <string name="show_info">Докладніше</string>
+    <string name="sing">Реєстрація</string>
+    <string name="sing_up">Зареєструватись</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sunday">Неділя</string>
+    <string name="theme_key">theme</string>
+    <string name="theme_of_the_app">Тема програми</string>
+    <string name="thursday">Четвер</string>
+    <string name="today">Сьогодні</string>
+    <string name="tuesday">Вівторок</string>
+    <string name="updated">23.09.2016</string>
+    <string name="version">Версія 1.0.0</string>
+    <string name="wednesday">Середа</string>
+</resources>

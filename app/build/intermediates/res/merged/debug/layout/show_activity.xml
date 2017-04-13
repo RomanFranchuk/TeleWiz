@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/background_color"
+    android:fitsSystemWindows="true">
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <include
+            android:id="@+id/tool_bar"
+            layout="@layout/tool_bar">
+        </include>
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorBlack"
+            >
+
+            <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="@dimen/show_activity_image_min_height"
+            android:id="@+id/imageView"
+            android:layout_gravity="center" />
+
+            <ProgressBar
+                android:id="@+id/progressBar2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"/>
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/colorWhite"
+            android:textStyle="bold"
+            android:textSize="@dimen/show_activity_title_size"
+            android:paddingTop="@dimen/show_activity_title_paddingTop"
+            android:paddingBottom="@dimen/show_activity_title_paddingTop"
+            android:layout_gravity="center_horizontal" />
+
+
+        <View
+
+            android:background="@color/colorBlack"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/show_activity_view_height"/>
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="@dimen/show_activity_table_min_height"
+                android:stretchColumns="*">
+                <TableRow
+                    >
+                    <ImageView
+                        android:id="@+id/logo_channel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/show_activity_image_logo_margin"
+                        android:layout_marginBottom="@dimen/show_activity_image_logo_margin"
+                        android:layout_gravity="center" />
+                    <TextView
+                        android:id="@+id/textViewTime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textSize="@dimen/show_activity_time_text_size"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorWhite"
+                        android:layout_gravity="center"
+                        />
+                    <ImageButton
+                        android:id="@+id/search_google"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/search"
+                        android:layout_gravity="center"
+                        android:onClick="searchButton"
+                        />
+                    <Button
+                        android:id="@+id/open_website"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="@string/show_activity_website_text"
+                        android:textSize="@dimen/show_activity_website_text_size"
+                        android:background="?android:attr/selectableItemBackground"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/colorPrimary"
+                        android:onClick="openWebsite"
+                        android:layout_gravity="center"
+                        />
+
+                    <ImageButton
+                        android:id="@+id/buttomSave"
+                        android:layout_width="@dimen/show_activity_image_button_width"
+                        android:layout_height="@dimen/show_activity_image_button_height"
+                        android:padding="@dimen/show_activity_image_button_padding"
+                        android:background="@drawable/noactivated_add_button"
+                        android:layout_gravity="center"
+                        />
+
+                </TableRow>
+
+            </TableLayout>
+        <View
+
+            android:background="@color/colorBlack"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/show_activity_view_height"/>
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/show_activity_table_paddingTop"
+            android:stretchColumns="*">
+            <TableRow>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorPrimary"
+                    android:text="@string/remind"
+                    android:textSize="@dimen/show_activity_remind_text_size"
+                    android:layout_gravity="center"/>
+
+
+                <Spinner
+                    android:layout_width="@dimen/show_activity_spinner_width"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/spinner"
+                    android:layout_gravity="center"
+                    />
+            </TableRow>
+        </TableLayout>
+
+        <FrameLayout
+            android:id="@+id/content_frame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </FrameLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textSize="@dimen/show_activity_description_text_size"
+                android:textColor="@color/colorWhite"
+                android:id="@+id/description"
+                android:padding="@dimen/show_activity_description_padding"
+                android:layout_gravity="left"
+                android:layout_weight="1"
+                />
+
+    </LinearLayout>
+    </ScrollView>
+
+    <ListView android:id="@+id/left_drawer"
+        android:layout_width="@dimen/navigation_drawer_width"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:choiceMode="singleChoice"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="@dimen/list_divider"
+        android:background="?attr/background_color" />
+
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">TeleWiz</string>
+
+    <!-- Title of the week -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <!--Toolbar Titles-->
+    <string name="channels">Channels</string>
+    <string name="favorite_channels">Favorite channels</string>
+    <string name="selected_shows">Saved shows</string>
+    <string name="show_info">Show info</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+    <string name="log_in">Log in</string>
+    <string name="log_out">Log out</string>
+    <string name="sing_up">Sing up</string>
+    <string name="profile">Profile</string>
+
+
+    <!-- Navigation Drawer Menu-->
+    <string-array name="menu_items">
+        <item>Channels</item>
+        <item>Favorite channels</item>
+        <item>Saved shows</item>
+        <item>Setting</item>
+    </string-array>
+
+    <string-array name="menu_icons">
+        <item>@drawable/ic_tv_black_48dp</item>
+        <item>@drawable/ic_favorite_border_black_48dp</item>
+        <item>@drawable/ic_camera_black_48dp</item>
+        <item>@drawable/ic_settings_black_48dp</item>
+    </string-array>
+
+
+    <!--Log In Activity-->
+    <string name="login_title">Login</string>
+    <string name="with_your_title">with your</string>
+    <string name="account_title">account</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="button_login">Log in</string>
+    <string name="sign_up_text">Do not have account! Sign up</string>
+
+
+    <!--Sign Up Activity-->
+    <string name="sign_up_create_title">Create</string>
+    <string name="sign_up_new_account_title">new title</string>
+    <string name="sign_up_your_name">Name</string>
+    <string name="sign_up_your_email">Email</string>
+    <string name="sign_up_your_password">Password</string>
+    <string name="sign_up_your__confirm_password">Confirm password</string>
+    <string name="sign_up_button_sign">Sign up</string>
+    <string name="sign_up_have_account">Already have account! Log in</string>
+
+    <!-- Profile Acitivity -->
+    <string name="profile_activity_full_name">Full Name</string>
+    <string name="profile_activity_button_text">Save</string>
+    <string name="profile_activity_button_log_out">Log out</string>
+
+    <!-- Schedule Fragment-->
+    <string name="schedule_does_not_available">Schedule does not available</string>
+
+
+    <!-- Show Activity -->
+    <string-array name="timer">
+        <item>30 minutes</item>
+        <item>1 hour</item>
+    </string-array>
+    
+    <string name="enjoy">Enjoy the movie!</string>
+    <string name="remind">Remind in:</string>
+    <string name="not_available">Unfortunately description not available</string>
+    <string name="wait_to_save">Please wait while picture will be downloaded</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="show_activity_website_text">Website</string>
+
+
+    <!-- Selected Activity-->
+    <string name="today">Today</string>
+    <string name="remove_saved">Remove?</string>
+    <string name="confirm_remove">Yes, remove!</string>
+    <string name="clear_list">Clear List</string>
+    <string name="cancel_button">Cancel</string>
+
+    <!-- Selected item layout -->
+
+
+    <!-- Favorite Activity -->
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="no_connection">No connection</string>
+
+    <!-- Channels logo for grid view -->
+    <string-array name="image_ids">
+        <item>@drawable/logo_oneplusone</item>
+        <item>@drawable/logo_tet</item>
+        <item>@drawable/logo_nlotv</item>
+        <item>@drawable/novyi</item>
+        <item>@drawable/logo_twoplustwo</item>
+        <item>@drawable/logo_k1</item>
+    </string-array>
+
+    <string-array name="channels_name">
+        <item>1+1</item>
+        <item>tet</item>
+        <item>nlotv</item>
+        <item>novyi</item>
+        <item>2+2</item>
+        <item>k1</item>
+    </string-array>
+
+
+    <!-- Months -->
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <!-- Setting Activity -->
+    <string name="theme_key">theme</string>
+    <string name="languages_key">languages</string>
+    <string name="theme_of_the_app">Theme of the app</string>
+    <string name="choose_theme">Chosse yout perfect theme</string>
+    <string name="languages">Languages</string>
+    <string name="choose_language">Choose your language</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="updated">23.09.2016</string>
+    <string name="feedback">Feedback</string>
+
+    <string-array name="languages_array">
+        <item>Українська</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="languages_values">
+        <item>uk</item>
+        <item>en</item>
+    </string-array>
+
+    <string-array name="theme">
+        <item>Grey and Darker Grey</item>
+        <item>Red and Claret</item>
+        <item>Violet and Yankees Blue</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>Grey and Darker Grey</item>
+        <item>Red and Claret</item>
+        <item>Violet and Yankees Blue</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorGrey">#989797</color>
+    <color name="colotBlue">#FF0000FF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDarkGrey">#404040</color>
+    <color name="colorLightGreen">#009900</color>
+    <color name="colorShadow">#565555</color>
+    <color name="colorGreyAnother">#0b4833</color>
+    <color name="claret">#611C35</color>
+    <color name="yankeesBlue">#1D263B</color>
+    <color name="warmBlue">#16425B</color>
+    <color name="warmBlack">#0E3B43</color>
+    <color name="jet">#363236</color>
+    <color name="japaneseIndigo">#16425B</color>
+    <color name="sunny">#FFF07C</color>
+    
+</resources>

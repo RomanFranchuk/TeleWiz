@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/tab_color2.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/tab_color2.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/background_nav.png",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/background_nav.png"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/oneplusone_picture.png",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/oneplusone_picture.png"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/novyi.png",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/novyi.png"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/tet_picture.jpg",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/tet_picture.jpg"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/logo_k1.jpg",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/logo_k1.jpg"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/tab_color3.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/tab_color3.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/splash_screen_background.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/splash_screen_background.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/sticky_header_style.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/sticky_header_style.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/logo_twoplustwo.jpeg",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/logo_twoplustwo.jpeg"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/logo_tet.jpg",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/logo_tet.jpg"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/sticky_header_style2.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/sticky_header_style2.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/schedule_text_style3.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/schedule_text_style3.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/search.png",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/search.png"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/sticky_header_style3.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/sticky_header_style3.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/confirm_style3.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/confirm_style3.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/confirm_style.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/confirm_style.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/logo_nlotv.jpg",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/logo_nlotv.jpg"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/tab_color.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/tab_color.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/schedule_text_style2.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/schedule_text_style2.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/delete_swipe_button.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/delete_swipe_button.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/schedule_text_style.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/schedule_text_style.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/confirm_style2.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/drawable/confirm_style2.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
+    }
+]

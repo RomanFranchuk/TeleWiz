@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "955141168495",
+    "firebase_url": "https://telewiz-601f0.firebaseio.com",
+    "project_id": "telewiz-601f0",
+    "storage_bucket": "telewiz-601f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955141168495:android:189fd1d01bd4789e",
+        "android_client_info": {
+          "package_name": "com.arcticwolf.tvschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955141168495-7d4f2delo7oa98f5rng2tbu1q8umr8cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arcticwolf.tvschedule",
+            "certificate_hash": "57614d9f544016476bf5ab72fcd9467ad4da3c27"
+          }
+        },
+        {
+          "client_id": "955141168495-pgvh9m9dfnut4ectmmroqg2fvg6u83vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzZ746OLx6m86QzWjfqkeGY9H1vuAmMA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955141168495-pgvh9m9dfnut4ectmmroqg2fvg6u83vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

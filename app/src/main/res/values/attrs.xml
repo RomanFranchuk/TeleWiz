@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="background_color" format="color"/>
+    <attr name="background_color_header" format="reference"/>
+    <attr name="style_tablayout" format="reference"/>
+    <attr name="text_color" format="color"/>
+    <attr name="text_header_background_color" format="color"/>
+    <attr name="background_toolbar" format="color"/>
+    <attr name="background_swipe" format="color"/>
+    <attr name="text_swipe" format="color"/>
+    <attr name="schedule_text" format="reference"/>
+    <attr name="confirm_buttom_background" format="reference"/>
+
+</resources>

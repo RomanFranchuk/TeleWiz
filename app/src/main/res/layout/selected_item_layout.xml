@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.daimajia.swipe.SwipeLayout
+    xmlns:swipe="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/swipe"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    swipe:leftEdgeSwipeOffset="@dimen/selected_layout_edgeSwipeOffSet"
+    swipe:rightEdgeSwipeOffset="@dimen/selected_layout_edgeSwipeOffSet">
+    <LinearLayout
+        android:id="@+id/linermove"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/selected_layout_linear_swipe_height"
+        android:background="?attr/background_swipe"
+        android:gravity="center"
+        android:tag="Bottom3"
+        android:weightSum="10">
+
+        <ImageView
+            android:id="@+id/trash"
+            android:layout_width="@dimen/selected_layout_trash_width"
+            android:layout_height="@dimen/selected_layout_trash_height"
+            android:layout_weight="1"
+            android:src="@drawable/trash" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:text="@string/remove_saved"
+            android:textColor="#fff"
+            android:textSize="@dimen/selected_layout_remove_text" />
+
+        <Button
+            android:id="@+id/delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:background="@drawable/delete_swipe_button"
+            android:text="@string/confirm_remove"
+            android:textColor="?attr/text_swipe"
+            />
+    </LinearLayout>
+
+<RelativeLayout
+
+    android:id="@+id/relativeItem"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ImageView
+        android:id="@+id/image_of_show"
+        android:layout_width="@dimen/selected_layout_image_view_width"
+        android:layout_height="@dimen/selected_layout_image_view_height"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/title_of_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginLeft="@dimen/selected_layout_text_views_margin"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/image_of_show"
+        android:layout_toEndOf="@+id/image_of_show" />
+
+    <TextView
+        android:id="@+id/time_of_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_marginLeft="@dimen/selected_layout_text_views_margin"
+        android:layout_below="@+id/title_of_show"
+        android:layout_toRightOf="@+id/image_of_show"
+        android:layout_toEndOf="@+id/image_of_show" />
+
+    <TextView
+        android:id="@+id/name_of_channel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_marginRight="@dimen/selected_layout_text_views_margin"
+        android:layout_alignBaseline="@+id/time_of_show"
+        android:layout_alignBottom="@+id/time_of_show"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
+
+</com.daimajia.swipe.SwipeLayout>

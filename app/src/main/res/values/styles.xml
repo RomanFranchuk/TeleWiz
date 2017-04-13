@@ -1,0 +1,79 @@
+<resources>
+
+    <style name="textStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="Grey" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#B8B8B8</item>
+        <item name="background_color">#383838</item>
+        <item name="background_toolbar">#484848</item>
+        <item name="background_color_header">@drawable/sticky_header_style</item>
+        <item name="android:textColor">#B8B8B8</item>
+        <item name="android:textColorSecondary">#B8B8B8</item>
+        <item name="background_swipe">@color/colorPrimaryDark</item>
+        <item name="text_swipe">#383838</item>
+        <item name="confirm_buttom_background">@drawable/confirm_style</item>
+        <item name="schedule_text">@drawable/schedule_text_style</item>
+        <item name="style_tablayout">@drawable/tab_color</item>
+        <item name="android:dialogTheme">@style/DialogStyle</item>
+        <item name="android:alertDialogTheme">@style/DialogStyle</item>
+    </style>
+
+    <style name="RedTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="background_toolbar">#93032E</item>//PINK RASPBERRY
+        <item name="background_color">#363236</item>
+        <item name="background_color_header">@drawable/sticky_header_style2</item>
+        <item name="colorAccent">#383838 </item>
+        <item name="android:textColor">#B8B8B8</item>
+        <item name="android:textColorSecondary">#B8B8B8</item>
+        <item name="style_tablayout">@drawable/tab_color2</item>
+        <item name="background_swipe">@color/claret</item>
+        <item name="schedule_text">@drawable/schedule_text_style2</item>
+        <item name="android:dialogTheme">@style/DialogStyle</item>
+        <item name="android:alertDialogTheme">@style/DialogStyle</item>
+        <item name="confirm_buttom_background">@drawable/confirm_style2</item>
+
+    </style>
+
+    <style name="VioletTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="background_toolbar">#462255</item>//JAPANESE VIOLET
+        <item name="background_color">#1D263B</item>
+        <item name="background_color_header">@drawable/sticky_header_style3</item>
+        <item name="colorAccent">#383838</item>
+        <item name="android:textColor">#B8B8B8</item>
+        <item name="android:textColorSecondary">#B8B8B8</item>
+
+        <item name="style_tablayout">@drawable/tab_color3</item>
+        <item name="background_swipe">#16425B</item>
+        <item name="schedule_text">@drawable/schedule_text_style3</item>
+        <item name="confirm_buttom_background">@drawable/confirm_style3</item>
+
+        <item name="android:dialogTheme">@style/DialogStyle</item>
+        <item name="android:alertDialogTheme">@style/DialogStyle</item>
+
+
+    </style>
+
+
+    <style name="DialogStyle" parent="Theme.AppCompat.Dialog">
+        <item name="android:background">?attr/background_color</item>
+    </style>
+
+    <style name="PopupMenu" parent="@android:style/Widget.PopupMenu">
+        <item name="android:background">?attr/background_toolbar</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen_background</item>
+    </style>
+</resources>

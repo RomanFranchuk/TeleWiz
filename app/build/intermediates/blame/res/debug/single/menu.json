@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/menu/menu_favorite.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/menu/menu_favorite.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/menu/menu_bar.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/menu/menu_bar.xml"
+    },
+    {
+        "merged": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/build/intermediates/res/merged/debug/menu/menu_selected.xml",
+        "source": "/Users/michael/Documents/AndroidStudio/TeleWiz/app/src/main/res/menu/menu_selected.xml"
+    }
+]

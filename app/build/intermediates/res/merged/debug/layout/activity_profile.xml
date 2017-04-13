@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/background_color">
+
+    <include
+        android:id="@+id/tool_bar"
+        layout="@layout/tool_bar"/>
+
+    <EditText
+        android:id="@+id/editTextFullName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="@string/profile_activity_full_name"
+        android:ems="10"
+        android:layout_margin="@dimen/profile_activity_margin"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:id="@+id/textViewEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_margin="@dimen/profile_activity_margin"
+        android:layout_gravity="center_horizontal" />
+
+
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="@dimen/profile_activity_button_width"
+        android:layout_height="@dimen/profile_activity_button_height"
+        android:text="@string/profile_activity_button_text"
+        android:layout_margin="@dimen/profile_activity_margin"
+        android:layout_gravity="center"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/colorBlack"/>
+    <Button
+        android:id="@+id/buttonLogOut"
+        android:layout_width="@dimen/profile_activity_button_width"
+        android:layout_height="@dimen/profile_activity_button_height"
+        android:text="@string/profile_activity_button_log_out"
+        android:layout_margin="@dimen/profile_activity_margin"
+        android:layout_gravity="center"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/colorBlack"/>
+</LinearLayout>

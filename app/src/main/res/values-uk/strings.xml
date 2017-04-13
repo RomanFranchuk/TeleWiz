@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV schedule</string>
+    <string name="monday">Понеділок</string>
+    <string name="tuesday">Вівторок</string>
+    <string name="wednesday">Середа</string>
+    <string name="thursday">Четвер</string>
+    <string name="friday">Пятниця</string>
+    <string name="saturday">Субота</string>
+    <string name="sunday">Неділя</string>
+
+    <string name="channels">Телеканали</string>
+    <string name="favorite_channels">Улюблені телеканали</string>
+    <string name="selected_shows">Збережені телепередачі</string>
+    <string name="setting">Налаштування</string>
+    <string name="help">Справка</string>
+    <string name="log_in">Вхід</string>
+    <string name="log_out">Вихід</string>
+    <string name="sing_up">Зареєструватись</string>
+
+    //ShowActivity
+    <string-array name="timer">
+        <item>30 хвилин</item>
+        <item>1 година</item>
+    </string-array>
+
+
+    <string name="enjoy">Приємного перегляду!</string>
+    <string name="remind">Нагадати за:</string>
+
+    <string name="logo_onePlusOne">Лого 1+1</string>
+    <string name="logo_twoPlusTwo">Лого 2+2</string>
+    <string name="logo_novyTv">Лого Новий канал</string>
+    <string name="logo_nloTV">Лого НЛО ТВ</string>
+    <string name="logo_tet">Лого ТЕТ</string>
+    <string name="logo_ictv">Лого ICTV</string>
+
+    <string-array name="menu_items">
+        <item>Телеканали</item>
+        <item>Улюблені телеканали</item>
+        <item>Вибрані телепередачі</item>
+        <item>Налаштування</item>
+    </string-array>
+    <string-array name="menu_icons">
+        <item>@drawable/ic_channel_icon</item>
+        <item>@drawable/ic_favorite_icon</item>
+        <item>@drawable/ic_show_icon</item>
+        <item>@drawable/ic_setting_icon</item>
+    </string-array>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    //SelectedShows
+    <string name="today">Сьогодні</string>
+    <string name="remove_saved">Видалити?</string>
+    <string name="confirm_remove">Так, видалити!</string>
+    <string name="clear_list">Очистити список</string>
+
+    <string name="first_name">Імя</string>
+    <string name="last_name">Прізвище</string>
+    <string name="email_address">E-mail адрес</string>
+    <string name="password">Пароль</string>
+    <string name="password_confirm">Повторення паролю</string>
+    <string name="login">Логін</string>
+
+    <string name="cancel_button">Відмінити</string>
+    <string name="save_button">Додати</string>
+
+    <string name="add">Додати</string>
+    <string name="remove">Видалити</string>
+    <string name="no_connection">Немає підключення до мережі</string>
+
+    <string name="selectedShow">Збережені телепередачі</string>
+    <string name="schedule">Телепрограмма</string>
+    <string name="show_info">Докладніше</string>
+    <string name="sing">Реєстрація</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/logo_oneplusone</item>
+        <item>@drawable/logo_tet</item>
+        <item>@drawable/logo_nlotv</item>
+        <item>@drawable/novyi</item>
+        <item>@drawable/logo_twoplustwo</item>
+        <item>@drawable/logo_k1</item>
+    </string-array>
+
+
+    <string-array name="months">
+        <item>Січня</item>
+        <item>Лютого</item>
+        <item>Березня</item>
+        <item>Квітня</item>
+        <item>Травня</item>
+        <item>Червня</item>
+        <item>Липня</item>
+        <item>Серпня</item>
+        <item>Вересня</item>
+        <item>Жовтня</item>
+        <item>Листопада</item>
+        <item>Грудня</item>
+    </string-array>
+
+    //Setting
+    <string name="theme_key">theme</string>
+    <string name="feedback_key">feedback</string>
+    <string name="languages_key">languages</string>
+    <string name="theme_of_the_app">Тема програми</string>
+    <string name="choose_theme">виберіть улюблену тему</string>
+    <string name="languages">Мова</string>
+    <string name="choose_language">виберіть вашу мову</string>
+    <string name="version">Версія 1.0.0</string>
+    <string name="updated">23.09.2016</string>
+    <string name="feedback">Зворотній звязок</string>
+
+
+    <string-array name="languages_array">
+        <item>Українська</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="languages_values">
+        <item>uk</item>
+        <item>en</item>
+    </string-array>
+
+    <string-array name="theme">
+        <item>Темно сіра</item>
+        <item>Червона з Кларет</item>
+        <item>Зелена з сірою</item>
+    </string-array>
+
+    <string name="not_available">На жаль опис не доступний</string>
+</resources>

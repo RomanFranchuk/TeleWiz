@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_pict"
+    >
+
+
+    <include
+        android:id="@+id/tool_bar"
+        layout="@layout/tool_bar"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/sign_up_margin_top"
+        android:layout_marginBottom="@dimen/sign_up_margin_bottom"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sign_up_create_title"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/sign_up_text_login"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sign_up_new_account_title"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/sign_up_text_new_account"
+            />
+
+    </LinearLayout>
+
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:ems="10"
+        android:hint="@string/sign_up_your_name"
+        android:layout_margin="@dimen/sign_up_margin_views"
+        android:textColorHint="@color/colorWhite"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:id="@+id/editTextEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:hint="@string/sign_up_your_email"
+        android:layout_margin="@dimen/sign_up_margin_views"
+        android:textColorHint="@color/colorWhite"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:hint="@string/sign_up_your_password"
+        android:id="@+id/editTextPassword"
+        android:layout_margin="@dimen/sign_up_margin_views"
+        android:textColorHint="@color/colorWhite"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:hint="@string/sign_up_your__confirm_password"
+        android:layout_margin="@dimen/sign_up_margin_views"
+        android:textColorHint="@color/colorWhite"
+        android:id="@+id/editTextConfirmPassword"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:id="@+id/buttonSignUp"
+        android:layout_width="@dimen/sign_up_button_width"
+        android:layout_height="@dimen/sign_up_button_height"
+        android:text="@string/sign_up_button_sign"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/sign_up_margin_views"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/colorBlack"/>
+
+    <TextView
+        android:id="@+id/textViewSingIn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/colorBlack"
+        android:textStyle="italic"
+        android:text="@string/sign_up_have_account"/>
+</LinearLayout>

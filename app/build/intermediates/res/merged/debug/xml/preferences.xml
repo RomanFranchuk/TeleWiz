@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="@string/theme_key"
+        android:title="@string/theme_of_the_app"
+        android:summary="@string/choose_theme"
+        android:defaultValue="#00FFFF"
+        android:entries="@array/theme"
+        android:entryValues="@array/theme_values"
+        />
+    <ListPreference
+        android:key="@string/languages_key"
+        android:title="@string/languages"
+        android:summary="@string/choose_language"
+        android:entries="@array/languages_array"
+        android:entryValues="@array/languages_values"
+        />
+    <Preference
+        android:title="@string/version"
+        android:summary="@string/updated"
+        />
+    <Preference
+        android:title="@string/feedback"
+        android:key="feedback_key"
+        />
+
+
+</PreferenceScreen>

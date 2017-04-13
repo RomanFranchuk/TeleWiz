@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.arcticwolf.telewiz"
+
+    >
+
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Grey">
+
+        <activity
+            android:name="com.arcticwolf.telewiz.SplashScreen"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--<activity android:name="com.arcticwolf.telewiz.MainActivity">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
+
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
+        <activity android:name=".MainActivity"/>
+        <activity android:name="com.arcticwolf.telewiz.SettingsActivity"/>
+        <activity android:name="com.arcticwolf.telewiz.ShowActivity"
+            android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.arcticwolf.telewiz.FavoriteChannels" />
+        <activity android:name="com.arcticwolf.telewiz.ScheduleActivity"
+            android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.arcticwolf.telewiz.SelectedShows"
+            android:configChanges="orientation|screenSize"/>
+        <activity android:name=".SignUpActivity"/>
+        <activity android:name=".LogInActivity"/>
+        <activity android:name=".ProfileActivity"/>
+
+        <receiver android:name="com.arcticwolf.telewiz.NotificationPublisher" />
+
+
+    </application>
+
+</manifest>
